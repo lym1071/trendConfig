@@ -1,0 +1,2 @@
+# trendConfig
+trendProject's config
